@@ -1,0 +1,2 @@
+# 115_Electric_Motor_Fault_Diagnosis_based_on_Thermal_Images
+Electric_Motor_Fault_Diagnosis_based_on_Thermal_Images_with_Machine_Learning
