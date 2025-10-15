@@ -1,6 +1,9 @@
 # 115_Electric_Motor_Fault_Diagnosis_based_on_Thermal_Images
 Electric_Motor_Fault_Diagnosis_based_on_Thermal_Images_with_Machine_Learning
 
+## Dataset: https://www.kaggle.com/datasets/python16/electric-motor-thermal-image-fault-diagnosis/data
+
+
 📊Hőtérképekből gépi tanulással: villanymotor-hibák előrejelzése.
 
 Az ipari prediktív karbantartás egyik “titkos fegyvere” a termográfia: a motorok külső hőeloszlása (hőtérképe) sokszor hamarabb elárulja a hibát, mint bármelyik zaj vagy teljesítménycsökkenés. Most egy olyan Colab-notebookot raktam össze, amely villanymotorok termálképeiből tanul és hiba / nincs hiba osztályozást végez kevés tanítóadat mellett is stabilan.
